@@ -1,0 +1,10 @@
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.csprojResolveAssemblyReference.cache
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.Form1.resources
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.Form2.resources
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.Properties.Resources.resources
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.csproj.GenerateResource.Cache
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\bin\Debug\PassVarToNewForm.exe.config
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\bin\Debug\PassVarToNewForm.exe
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\bin\Debug\PassVarToNewForm.pdb
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.exe
+H:\120it\Projects\PassVarToNewForm\PassVarToNewForm\obj\Debug\PassVarToNewForm.pdb
